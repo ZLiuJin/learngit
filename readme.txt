@@ -1,4 +1,4 @@
 this is a file and changed....
 hhhhh
 third
-git tracks changes
+git tracks changes of files.
